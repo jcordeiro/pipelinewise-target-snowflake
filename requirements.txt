@@ -1,6 +1,6 @@
 idna==2.7
 singer-python==5.1.5
-snowflake-connector-python==2.0.3
+snowflake-connector-python==3.0.4
 boto3==1.10.8
 inflection==0.3.1
 joblib==0.13.2
